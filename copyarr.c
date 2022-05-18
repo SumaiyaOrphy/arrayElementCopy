@@ -18,4 +18,6 @@ int main(){
 		printf("%d ",array2[i]);
 	}
 	
+	printf("I am changed!!");
+	
 }
